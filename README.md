@@ -18,6 +18,9 @@
   - #### 2_1_2. Detail Design
 - ### 2_2. Database Design
   - #### 2_2_1. Conceptual Design
+    - ##### 1) Extract entities and attributes
+    - ##### 2) Extract relationship
+    - ##### 3) E-R Diagram
   - #### 2_2_2. Logical Design
   - #### 2_2_3. Physical Design
 
