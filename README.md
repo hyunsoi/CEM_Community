@@ -17,9 +17,9 @@
   - #### 2_1_1. Usecase Modeling
   - #### 2_1_2. Detail Design
 - ### 2_2. Database Design
-  - ##### 2_2_1. Conceptual Design
-  - ##### 2_2_2. Logical Design
-  - ##### 2_2_3. Physical Design
+  - #### 2_2_1. Conceptual Design
+  - #### 2_2_2. Logical Design
+  - #### 2_2_3. Physical Design
 
 ## 3. Implementation
 - To be added.
