@@ -1,6 +1,6 @@
 # Computer Engineering Major Community Homepage.
 
-## Introduction of Team Member
+## Introduction of Our Team
 |Selfie|Name|Position|Grade|Major|
 |:--:|:--:|:--:|:--:|:--:|
 |<img height="180" src="https://github.com/PSLeon24/CEM_Community/assets/59058869/1c4a75a2-fa44-4bde-ba6f-1b9b6868de0b">|Yeong-Min Ko|Director|3|Computer Egineering|
