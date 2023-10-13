@@ -24,6 +24,7 @@
   - #### 2_2_2. Logical Design
     - ##### Scheme Design
   - #### 2_2_3. Physical Design using SQL Server
+- ### 2_3. UI/UX Design
 
 ## 3. Implementation
 - To be added.
