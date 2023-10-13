@@ -8,10 +8,18 @@
 |<img height="180" src="https://github.com/PSLeon24/CEM_Community/assets/59058869/b5e13f86-dbd8-4b1a-8395-fad3cd06ed0f">|Han-Gyul Choi|Developer|3|Computer Egineering|
 
 ## 1. Requirements Analysis
-- To be added.
+- ### 1_1. Objective setting
+- ### 1_2. Project Scope
+- ### 1_3. Schedule setting
 
 ## 2. Design
-- To be added.
+- ### 2_1. System Design
+  - #### 2_1_1. Modeling Usecase Diagram
+  - #### 
+- ### 2_2. Database Design
+  - ##### 2_2_1. Conceptual Design
+  - ##### 2_2_2. Logical Design
+  - ##### 2_2_3. Physical Design
 
 ## 3. Implementation
 - To be added.
@@ -22,7 +30,10 @@
 ## 5. Maintanance
 - To be added.
 
-## work records for each members
+## Meeting records
+- 2023/10/13: We have decided a project subject to develop a community homepage about our major. Because There is little communication although they are same major at our college.
+
+## Work records for each members
 #### Yeong-Min Ko
 - To be added.
 #### Hyun-Soo Choi
