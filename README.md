@@ -14,8 +14,8 @@
 
 ## 2. Design
 - ### 2_1. System Design
-  - #### 2_1_1. Modeling Usecase Diagram
-  - #### 
+  - #### 2_1_1. Usecase Modeling
+  - #### 2_1_2. Detail Design
 - ### 2_2. Database Design
   - ##### 2_2_1. Conceptual Design
   - ##### 2_2_2. Logical Design
