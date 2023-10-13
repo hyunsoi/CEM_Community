@@ -22,7 +22,8 @@
     - ##### 2) Extract relationship
     - ##### 3) E-R Diagram
   - #### 2_2_2. Logical Design
-  - #### 2_2_3. Physical Design
+    - ##### Scheme Design
+  - #### 2_2_3. Physical Design using SQL Server
 
 ## 3. Implementation
 - To be added.
