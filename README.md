@@ -7,7 +7,7 @@
 |<img height="180" src="https://github.com/PSLeon24/CEM_Community/assets/59058869/86cca87e-09b1-40af-b82a-e63509253dd7">|Hyun-Soo Choi|Developer|3|Computer Egineering|
 |<img height="180" src="https://github.com/PSLeon24/CEM_Community/assets/59058869/b5e13f86-dbd8-4b1a-8395-fad3cd06ed0f">|Han-Gyul Choi|Developer|3|Computer Egineering|
 
-DBMS: SQL Server
+DBMS: SQL Server<br>
 Back-End Framework: NodeJS
 
 ## 1. Requirements Analysis
