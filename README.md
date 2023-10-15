@@ -11,9 +11,9 @@ DBMS: SQL Server<br>
 Back-End Framework: NodeJS
 
 ## 1. Requirements Analysis
-- ### 1_1. Objective setting
+- ### 1_1. Objective Setting
 - ### 1_2. Project Scope
-- ### 1_3. Schedule setting
+- ### 1_3. Schedule Setting
 
 ## 2. Design
 - ### 2_1. System Design
