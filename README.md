@@ -31,7 +31,7 @@
   ~ 10/24     -      Extract main scope
   ~ 10/31     -      Collect resources related the project
   ~ 11/07     -      System Design(Usecase Modeling and Detail Design - All member / Develop Front-end
-  ~ 11/14     -      Database Design(by 2_2_1_3. E-R Diagram) and Prepare the mid-term presentation
+  ~ 11/14     -      Database Design(by 2_3_1_3. E-R Diagram) and Prepare the mid-term presentation
   ~ 11/21     -      Mid-term presentation / Develop Front-end / Logical Design(Scheme Design)
   ~ 11/28     -      Develop Back-end / Front-end maintenance / System testing
   ~ 12/05     -      Develop Back-end / Front-end maintenance / System testing
@@ -43,15 +43,15 @@
 - ### 2_1. System Design
   - #### 2_1_1. Usecase Modeling
   - #### 2_1_2. Detail Design
-- ### 2_2. Database Design
-  - #### 2_2_1. Conceptual Design
+- ### 2_2. UI/UX Design
+- ### 2_3. Database Design
+  - #### 2_3_1. Conceptual Design
     - ##### 1) Extract entities and attributes
     - ##### 2) Extract relationship
     - ##### 3) E-R Diagram
-  - #### 2_2_2. Logical Design
+  - #### 2_3_2. Logical Design
     - ##### Scheme Design
-  - #### 2_2_3. Physical Design using SQL Server
-- ### 2_3. UI/UX Design
+  - #### 2_3_3. Physical Design using SQL Server
 
 ## 3. Implementation
 - To be added.
