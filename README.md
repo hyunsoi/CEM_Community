@@ -23,6 +23,19 @@
 - ### 1_1. Objective Setting
 - ### 1_2. Project Scope
 - ### 1_3. Schedule Setting
+  <pre>
+  Date     Status    Goal
+  ~ 10/17     O      Project planning, idea discussion, selection of stack to use - All member
+  ~ 10/24     -      Extract main scope
+  ~ 10/31     -      Collect resources related the project
+  ~ 11/07     -      System Design(Usecase Modeling and Detail Design - All member / Develop Front-end
+  ~ 11/14     -      Database Design(by 2_2_1_3. E-R Diagram) and Prepare the mid-term presentation
+  ~ 11/21     -      Mid-term presentation / Develop Front-End / Logical Design(Scheme Design)
+  ~ 11/28     -      Develop Back-end / Front-end maintenance / System Testing
+  ~ 12/05     -      Develop Back-end / Front-end maintenance / System Testing
+  ~ 12/12     -      Final check and Prepare Final-term presentation
+  ~ 12/19     -      Final-term presentation / Finish the project
+  </pre>
 
 ## 2. Design
 - ### 2_1. System Design
