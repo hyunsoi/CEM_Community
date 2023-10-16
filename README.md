@@ -30,7 +30,7 @@
   ~ 10/17     O      Project planning, idea discussion, selection of stack to use - All member
   ~ 10/24     -      Extract main scope
   ~ 10/31     -      Collect resources related the project
-  ~ 11/07     -      System Design(Usecase Modeling and Detail Design - All member / Develop Front-end
+  ~ 11/07     -      System Design(Component Modeling and Detail Design - All member / Develop Front-end
   ~ 11/14     -      Database Design(by 2_3_1_3. E-R Diagram) and Prepare the mid-term presentation
   ~ 11/21     -      Mid-term presentation / Develop Front-end / Logical Design(Scheme Design)
   ~ 11/28     -      Develop Back-end / Front-end maintenance / System testing
@@ -41,7 +41,7 @@
 
 ## 2. Design
 - ### 2_1. System Design
-  - #### 2_1_1. Usecase Modeling
+  - #### 2_1_1. Component Modeling
   - #### 2_1_2. Detail Design
 - ### 2_2. UI/UX Design
 - ### 2_3. Database Design
