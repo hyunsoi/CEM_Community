@@ -28,7 +28,7 @@
   <pre>
   Date     Status    Goal
   ~ 10/17     O      Project planning, idea discussion, selection of stack to use - All member
-  ~ 10/24     -      Extract main scope
+  ~ 10/24     O      Extract main scope
   ~ 10/31     -      Collect resources related the project
   ~ 11/07     -      System Design(Component Modeling and Detail Design - All member / Develop Front-end
   ~ 11/14     -      Database Design(by 2_3_1_3. E-R Diagram) and Prepare the mid-term presentation
@@ -67,7 +67,11 @@
 
 ## Work records for each members
 #### Yeong-Min Ko
-- To be added.
+- 2023/10/29: Develop a prototype page with Node.js
+
+|Main|Sign in|Sign up|
+|:--:|:--:|:--:|
+|<img width="1440" alt="스크린샷 2023-10-29 오전 1 33 23" src="https://github.com/PSLeon24/CEM_Community/assets/59058869/7ae07c2d-b352-4b02-8ac5-d114919730d4">|<img width="1439" alt="스크린샷 2023-10-29 오전 1 33 30" src="https://github.com/PSLeon24/CEM_Community/assets/59058869/c9e57801-f764-4fd6-8c1a-d858244c1a37">|<img width="1438" alt="스크린샷 2023-10-29 오전 1 35 20" src="https://github.com/PSLeon24/CEM_Community/assets/59058869/e39ffbf0-07d3-4867-83c4-32aab3b5a837">|
 #### Hyun-Soo Choi
 - To be added.
 #### Han-Gyul Choi
