@@ -41,7 +41,7 @@
 
 ## 2. Design
 - ### 2_1. System Design
-  - #### 2_1_1. Component Modeling
+  - #### 2_1_1. Usecase Diagram
   - #### 2_1_2. Detail Design
 - ### 2_2. UI/UX Design
 - ### 2_3. Database Design
@@ -75,7 +75,14 @@
 #### Hyun-Soo Choi
 - To be added.
 #### Han-Gyul Choi
-- To be added.
+- 2023/10/31: Conduct a survey to collect user needs: <a href="https://docs.google.com/forms/d/1GR1TKiiJjvH85kxkTO_HOnUt6hKx6fm_2CuDDYCK8dY">Survey link</a>
+
+|Idx|Question|
+|:--:|:--:|
+|1|본인이 속한 학과를 선택해주세요.|
+|2|학과 생활에 대한 전반적인 만족도는?|
+|2-1|학과 생활에 대한 불만이 있다면 어떤 점인가?|
+|2-2|학과 생활에 전반적으로 만족한다면 그 이유는?|
 
 ---
 #### References
