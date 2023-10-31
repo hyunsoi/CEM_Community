@@ -4,7 +4,7 @@
 |Selfie|Name|Position|Grade|Major|
 |:--:|:--:|:--:|:--:|:--:|
 |<img height="180" src="https://github.com/PSLeon24/CEM_Community/assets/59058869/1c4a75a2-fa44-4bde-ba6f-1b9b6868de0b">|Yeong-Min Ko|Director & DBA|3|Computer Egineering|
-|<img height="180" src="https://github.com/PSLeon24/CEM_Community/assets/59058869/86cca87e-09b1-40af-b82a-e63509253dd7">|Hyun-Soo Choi|Front-End Developer|3|Computer Egineering|
+|<img height="180" src="https://github.com/PSLeon24/CEM_Community/assets/59058869/86cca87e-09b1-40af-b82a-e63509253dd7">|Hyun-Soo Choi|Back-End Developer & ER-Diagram|3|Computer Egineering|
 |<img height="180" src="https://github.com/PSLeon24/CEM_Community/assets/59058869/b5e13f86-dbd8-4b1a-8395-fad3cd06ed0f">|Han-Gyul Choi|Back-End Developer & UI|3|Computer Egineering|
 
 ## 💻 Tech Stack
